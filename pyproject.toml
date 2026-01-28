@@ -1,0 +1,10 @@
+[project]
+name = "upa11y"
+version = "0.1.0"
+description = "Ferramenta de refatoração para acessibilidade"
+readme = "README.md"
+requires-python = ">=3.12"
+
+dependencies = [
+  "beautifulsoup4>=4.12",
+]

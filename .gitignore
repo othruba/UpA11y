@@ -1,0 +1,6 @@
+*.png
+*.html
+*.css
+.venv/
+*.md
+sample/
