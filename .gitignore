@@ -1,6 +1,7 @@
-*.png
-*.html
-*.css
 .venv/
-*.md
+__pycache__/
+*.py[cod]
+
 sample/
+plans/
+docs/
